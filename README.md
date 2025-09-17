@@ -1,6 +1,11 @@
 # 基于腾讯云 EdgeOne Pages 的地理位置查询工具
 
+#### 一键部署到腾讯云大陆
+[![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?from=github&template=https://github.com/aihttp/eodlocation)
+
+#### 一键部署到腾讯云国际（edgeone.ai）
 [![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?from=github&template=https://github.com/aihttp/eolocation)
+
 
 使用 EdgeOne Pages 函数获取客户端的地理位置，并部署到 EO边缘函数节点
 
