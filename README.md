@@ -1,5 +1,7 @@
 # 基于腾讯云 EdgeOne Pages 的地理位置查询工具
 
+[![Deploy with EdgeOne Pages](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?from=github&template=https://github.com/aihttp/eolocation)
+
 使用 EdgeOne Pages 函数获取客户端的地理位置，并部署到 EO边缘函数节点
 
 默认使用 EO边缘函数 内置地理信息字段，没有获取到 [城市] 或 [运营商] 信息时，使用第三方API获取，并缓存到 KV数据库
